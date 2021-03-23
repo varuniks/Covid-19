@@ -8,9 +8,10 @@ Data File : time_series_covid19_confirmed_US.csv (Original Source : https://raw.
 Requirements : 
   * Python > 3.6 version 
   * Tensorflow, keras 
+  
 Command : python3.6 covid_forecast.py
 
-## Descriptions 
+## File descriptions 
 * covid_forecast.py - For state of Virginia, change the state name in the file to run for any other state.
 * covid_forecast_ind_parallel.py - Running for each county individually for Virginia State counties. change the state name in the file to run for any other state.
 * covid_forecast_all_states.py - To run for all the 50+ Provincial states individually. 
